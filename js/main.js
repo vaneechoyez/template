@@ -118,6 +118,19 @@
     loop: true,
     items: 1
   });
+ // Obtener el botón "Enviar Mensaje" por su ID
+ var btnEnviar = document.getElementById("btnEnviar");
 
+ // Adjuntar un event listener al botón
+ btnEnviar.addEventListener("click", function() {
+   // Obtener el elemento de entrada de texto por su ID
+   var mensajeInput = document.getElementById("mensaje");
+
+   // Obtener el valor del mensaje ingresado
+   var mensaje = mensajeInput.value;
+
+   // Mostrar una alerta con el contenido del mensaje
+   alert("Contenido del mensaje: " + mensaje);
+ });
 })(jQuery);
 
