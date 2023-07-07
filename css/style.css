@@ -210,7 +210,7 @@ h6 {
 
 #intro .intro-info .btn-get-started,
 #intro .intro-info .btn-services {
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLOX MONO";
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -708,7 +708,7 @@ h6 {
 }
 
 #why-us .counters span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLOX MONO";
   font-weight: bold;
   font-size: 48px;
   display: block;
@@ -718,7 +718,7 @@ h6 {
 #why-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLOX MONO";
   font-size: 14px;
   color: #cce5ff;
 }
@@ -1078,7 +1078,7 @@ h6 {
   margin: 0 0 10px 0;
   padding: 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family:"IBM PLOX MONO";
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -1088,7 +1088,7 @@ h6 {
 #contact .contact-about p {
   font-size: 14px;
   line-height: 24px;
-  font-family: "Montserrat", sans-serif;
+  font-family:"IBM PLOX MONO";
   color: #888;
 }
 
@@ -1214,7 +1214,7 @@ h6 {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLOX MONO";
   color: #E9E7E8;
   font-weight: 400;
   letter-spacing: 3px;
@@ -1225,7 +1225,7 @@ h6 {
   font-size: 13px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLOX MONO"f;
   color: #E9E7E8;
 }
 
